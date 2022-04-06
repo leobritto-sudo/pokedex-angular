@@ -1,4 +1,4 @@
-# App To-Do List
+# App Pokedex
 
 Projeto gerado com Angular CLI versão 13.2.5.
 
