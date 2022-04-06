@@ -14,7 +14,7 @@ A aplicação tem como objetivo simular uma Pokedex, com a ajuda da [PokeApi](ht
 ## gh-pages
 
 A aplicação está disponível no GitHub Pages!<br>
-Para acessá-la, basta clicar [aqui](https://leobritto-sudo.github.io/to-do-list-angular/)
+Para acessá-la, basta clicar [aqui](https://leobritto-sudo.github.io/pokedex-angular/)
 
 ## Autor do projeto
 
