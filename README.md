@@ -1,27 +1,21 @@
-# Pokedex
+# App To-Do List
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+Projeto gerado com Angular CLI versão 13.2.5.
 
-## Development server
+## Sobre o App
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+A aplicação tem como objetivo simular uma Pokedex, com a ajuda da [PokeApi](https://pokeapi.co) são disponibilizados 100 Pokémons para brincar e descobrir mais sobre eles , como funcionalidades da aplicação há:
 
-## Code scaffolding
+<ul>
+  <li>Possibilidade de pesquisar qual Pokémon deseja encontrar</li>
+  <li>Possibilidade de ver as estatísticas de cada Pokémon, como o(s) tipo(s), estatísticas de batalha e evoluções</li>
+</ul>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## gh-pages
 
-## Build
+A aplicação está disponível no GitHub Pages!<br>
+Para acessá-la, basta clicar [aqui](https://leobritto-sudo.github.io/to-do-list-angular/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Autor do projeto
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Este projeto foi realizado para o aprendizado em Angular, Sass e Typescript e desenvolvido por [Leonardo Alves](https://github.com/leobritto-sudo).
